@@ -1,0 +1,5 @@
+C:\Users\Alena\Desktop\школа 2.0\2 курс\2 сем\балса методы программирования\3 лаба\Lab_3\Debug\Lab_3.vcxprojAssemblyReference.cache
+C:\Users\Alena\Desktop\школа 2.0\2 курс\2 сем\балса методы программирования\3 лаба\Lab_3\Debug\Lab_3.exe
+C:\Users\Alena\Desktop\школа 2.0\2 курс\2 сем\балса методы программирования\3 лаба\Lab_3\Debug\Lab_3.pdb
+C:\Users\Alena\Desktop\школа 2.0\2 курс\2 сем\балса методы программирования\3 лаба\Lab_3\Debug\Lab3.MyForm.resources
+C:\Users\Alena\Desktop\школа 2.0\2 курс\2 сем\балса методы программирования\3 лаба\Lab_3\Debug\Lab_3.vcxproj.GenerateResource.cache
